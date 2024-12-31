@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Python
+- ⚡ I will track all my progress in my Python repository
+- 👯 I hope this will help me in the futur for the developpment of my career
+
 <!--
 **Ghislainns/Ghislainns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
